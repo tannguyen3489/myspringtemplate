@@ -1,0 +1,4 @@
+myspringtemplate
+================
+
+MyTemplate
